@@ -1,3 +1,3 @@
-# git
+# git_tutorial
 
 ## by Adachime 
